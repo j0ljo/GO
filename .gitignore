@@ -1,0 +1,2 @@
+# Ignore the private configuration file
+.env
